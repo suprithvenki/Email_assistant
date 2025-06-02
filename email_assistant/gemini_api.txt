@@ -1,5 +1,4 @@
-AIzaSyBqDxN9I-o14BeDqOQXGcKyZRbgxiGl4Gs
-
+//api key goes here
 
   "contents": [{
     "parts":[{"text": "Explain how AI works"}]
