@@ -1,0 +1,6 @@
+AIzaSyBqDxN9I-o14BeDqOQXGcKyZRbgxiGl4Gs
+
+
+  "contents": [{
+    "parts":[{"text": "Explain how AI works"}]
+    }]
